@@ -2,9 +2,9 @@
 
 namespace FactoryStructural {
 	/// <summary>
-	/// The "ConcreteProductA" class
+	/// A "ConcreteProduct" class
 	/// </summary>
 	/// <seealso cref="FactoryStructural.Product" />
-	class ConcreteProductA:Product{
+	class ConcreteProductB:Product {
 	}
 }

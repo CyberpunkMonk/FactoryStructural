@@ -1,9 +1,9 @@
 ﻿using System;
 
 /// <summary>
-/// The abstract "product" class.
+/// The abstract "Product" class.
 /// </summary>
 namespace FactoryStructural {
-	abstract class product {
+	abstract class Product {
 	}
 }
